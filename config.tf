@@ -2,8 +2,8 @@
 #frankfurt
 
 provider "aws" {
-  access_key = "AKIAS5N7QTDWBYM3GUWZ"
-  secret_key = "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"
+  access_key = "***"
+  secret_key = "***"
   region = "us-east-1"
 }
 
